@@ -1,0 +1,6 @@
+C:\Users\Hp\Documents\Visual Studio 2015\Projects\CodeTestTask\CodeTestTask\bin\Debug\CodeTestTask.exe.config
+C:\Users\Hp\Documents\Visual Studio 2015\Projects\CodeTestTask\CodeTestTask\bin\Debug\CodeTestTask.exe
+C:\Users\Hp\Documents\Visual Studio 2015\Projects\CodeTestTask\CodeTestTask\bin\Debug\CodeTestTask.pdb
+C:\Users\Hp\Documents\Visual Studio 2015\Projects\CodeTestTask\CodeTestTask\obj\Debug\CodeTestTask.exe
+C:\Users\Hp\Documents\Visual Studio 2015\Projects\CodeTestTask\CodeTestTask\obj\Debug\CodeTestTask.pdb
+C:\Users\Hp\Documents\Visual Studio 2015\Projects\CodeTestTask\CodeTestTask\obj\Debug\CodeTestTask.csprojResolveAssemblyReference.cache
